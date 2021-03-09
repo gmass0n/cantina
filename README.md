@@ -1,6 +1,6 @@
   <p align="center">
   <a href="https://github.com/gmass0n/cantina">
-    <img src="./.github/logo.png" alt="Cantina">
+    <img src="./.github/logo.png" alt="Cantina" height="70">
   </a>
   <h3 align="center">Cantina</h3>
   <p align="center">
